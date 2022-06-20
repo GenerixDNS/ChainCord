@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ChannelImpl.iml" filepath="$PROJECT_DIR$/.idea/ChannelImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ChainCord.iml" filepath="$PROJECT_DIR$/.idea/ChainCord.iml" />
     </modules>
   </component>
 </project>
